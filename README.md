@@ -12,12 +12,6 @@
 
 Projeto desenvolvido no curso web deseign da Origamid, onde criamos um site de vendas de bicicletas com o intuito de aprender e fixar conhecimentos de design e boas práticas de programação.
 
-### Linguagens 
-
-- HTML
-- CSS
-- Javascript
-- PHP
 
 ## 🎨 Layout
 
@@ -25,3 +19,10 @@ Projeto desenvolvido no curso web deseign da Origamid, onde criamos um site de v
 ![Layout do projeto](https://github.com/fabricioig863/bikcraft/blob/master/Layout%2002.png)
 ![Layout do projeto](https://github.com/fabricioig863/bikcraft/blob/master/Layout%2003.png)
 ![Layout do projeto](https://github.com/fabricioig863/bikcraft/blob/master/Layout%2004.png)
+
+### Linguagens 
+
+- HTML
+- CSS
+- Javascript
+- PHP
