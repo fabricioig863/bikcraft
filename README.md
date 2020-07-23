@@ -21,3 +21,7 @@ Projeto desenvolvido no curso web deseign da Origamid, onde criamos um site de v
 
 ## 🎨 Layout
 
+![Layout do projeto](https://github.com/fabricioig863/bikcraft/blob/master/Layout%2001.png)
+![Layout do projeto](https://github.com/fabricioig863/bikcraft/blob/master/Layout%2002.png)
+![Layout do projeto](https://github.com/fabricioig863/bikcraft/blob/master/Layout%2003.png)
+![Layout do projeto](https://github.com/fabricioig863/bikcraft/blob/master/Layout%2004.png)
