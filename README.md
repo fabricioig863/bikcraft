@@ -11,7 +11,7 @@
 
 ## 🚀 Resumo
 
-Projeto desenvolvido no curso web deseign da Origamid, onde criamos um site de vendas de bicicletas com o intuito de aprender e fixar conhecimentos de design e boas práticas de programação.
+Projeto desenvolvido no curso web design da Origamid, onde criamos um site de vendas de bicicletas com o intuito de fixar conhecimentos de design e boas práticas de programação.
 
 
 ## 🎨 Layout
