@@ -6,7 +6,6 @@
 <a href="#-projeto">Resumo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Linguagens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 🚀 Resumo
@@ -28,6 +27,3 @@ Projeto desenvolvido no curso web design da Origamid, onde criamos um site de ve
 - Javascript
 - PHP
 
-## 📝 License 
-
-Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/rafaelmartins92/ecoleta/blob/master/LICENSE) para obter mais informações.
