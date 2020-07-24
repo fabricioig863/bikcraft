@@ -8,7 +8,7 @@
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-## 🚀 Resumo
+## 🚀 Projeto
 
 Projeto desenvolvido no curso web design da Origamid, onde criamos um site de vendas de bicicletas com o intuito de fixar conhecimentos de design e boas práticas de programação.
 
