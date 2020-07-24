@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="#-projeto">Resumo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-tecnologias">Linguagens</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -20,7 +20,7 @@ Projeto desenvolvido no curso web design da Origamid, onde criamos um site de ve
 ![Layout do projeto](https://github.com/fabricioig863/bikcraft/blob/master/layout/Layout%2003.png)
 ![Layout do projeto](https://github.com/fabricioig863/bikcraft/blob/master/layout/Layout%2004.png)
 
-### 💻 Linguagens 
+### 💻 Tecnologias 
 
 - HTML
 - CSS
